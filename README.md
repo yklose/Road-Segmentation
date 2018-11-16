@@ -1,2 +1,2 @@
-# Solar-Pannel-Detection
+# Road Segmentation
 Machine Learning Project 2
